@@ -34,5 +34,14 @@ Upon receipt of the data we carried out the following processes to ensure data i
 
  ### ANALYSIS 
  ---
+ #### QUICK STATISTICS
+- Sum of revenue
+- Sum of units Sold
+- Average of Revenue
+- Average units sold
+- Range
+- First Q
+- Third Q
+
 
 
