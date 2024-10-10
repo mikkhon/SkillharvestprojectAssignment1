@@ -1,5 +1,16 @@
 # SkillharvestprojectAssignment1
 
+### Table of outline
+#### [project title](#project-title)
+#### [project overview](#project-overview)
+#### [project objective](#project-objective)
+#### [data sources](#data-sources)
+#### [tools used](#tools-used)
+#### [data cleaning and preparation](#data-cleaning-and-preparation)
+#### [data analysis](#data-analysis)
+#### [data insights](#data-insights)
+
+
 This is my first project assignment while studying data analysis in Skillharvest academy. 
 
 ### PROJECT TITLE
@@ -42,6 +53,25 @@ Upon receipt of the data we carried out the following processes to ensure data i
 - Range
 - First Q
 - Third Q
+
+  #### EXPLORATORY DATA ANALYSIS with CF
+
+  #### EXPLORATORY DATA ANALYSIS with IF
+
+  #### PIVOT TABLES
+
+  #### DATA VISUALISATION
+
+  ### DATA INFERENCE/INSGHTS
+
+  WIth reference to the statistics obtained, we found out that **NORTH EAST** were outstanding in Performance. The organisation is to ensure that such performance is reapeated in the following year. The revenue from **OYO market** is too low. Research has to be done in this market to find out why her performace is quite dismal and management support must be immediately deplored to jack up revenue. The percentage sale of **Printer** was too low or the period under review. A proper **Month on month** (MoM) analysis must be made to ascertain the reason for the very poor sales.
+
+  
+  
+  
+
+  
+  
 
 
 
