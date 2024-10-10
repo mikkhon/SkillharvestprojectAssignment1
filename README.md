@@ -9,6 +9,7 @@
 #### [data cleaning and preparation](#data-cleaning-and-preparation)
 #### [data analysis](#data-analysis)
 #### [data insights](#data-insights)
+#### [conclusion](#conclusion)
 
 
 This is my first project assignment while studying data analysis in Skillharvest academy. 
@@ -66,7 +67,9 @@ Upon receipt of the data we carried out the following processes to ensure data i
 
   WIth reference to the statistics obtained, we found out that **NORTH EAST** were outstanding in Performance. The organisation is to ensure that such performance is reapeated in the following year. The revenue from **OYO market** is too low. Research has to be done in this market to find out why her performace is quite dismal and management support must be immediately deplored to jack up revenue. The percentage sale of **Printer** was too low or the period under review. A proper **Month on month** (MoM) analysis must be made to ascertain the reason for the very poor sales.
 
-  
+  ### CONCLUSION
+  ---
+  A proper data analysis must contain visuals as uploaded to help in taking appropriate business decisions. 
   
   
 
